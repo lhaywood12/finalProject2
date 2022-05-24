@@ -1,0 +1,238 @@
+.main {
+    background-color: seashell;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Oleo Script', cursive;
+    box-shadow: 4px 4px 4px black;
+}
+
+.main-nav {
+    font-size: 22px;
+    padding: 10px;
+}
+
+.carousel-section {
+    /* padding: 40px; */
+    margin-top: -20px;
+}
+
+
+.home-text {
+    font-family: 'Oleo Script', cursive;
+    font-size: 23px;
+    text-align: center;
+    padding: 30px;
+    float: left;
+}
+
+
+.product-dropdown {
+    /* border: 3px solid blue; */
+    font-family: 'Oleo Script', cursive;
+    margin-left: 690px;
+}
+
+.products-list {
+    background-color: tan;
+    padding: 60px;
+    list-style: none;
+}
+
+.m-product-img {
+    /*border:3px solid red;*/
+    margin-left: 20px;
+    padding: 70px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.product-name {
+    text-align: center;
+    font-family: 'Oleo Script', cursive;
+    padding: 50px;
+    border-bottom: 6px solid black;
+}
+
+.product-header {
+    /*border:3px solid black;*/
+    padding: 50px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    font-family: 'Oleo Script', cursive;
+}
+
+.product-text {
+    font-family: 'Oleo Script', cursive;
+    font-size: 22px;
+    text-align: center;
+    /*border: 2px solid gray;*/
+    margin-left: -100px;
+    padding: 20px;
+}
+
+.product-item {
+    font-family: 'Oleo Script', cursive;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+    margin-right: -40px;
+}
+
+.product-title {
+    font-family: 'Oleo Script', cursive;
+}
+
+.product-btn {
+    background: black;
+    border-radius: 5px 10px;
+    color: white;
+}
+
+.product-text {
+    font-family: 'Oleo Script', cursive;
+    font-size: 22px;
+    text-align: center;
+    /*border: 2px solid gray;*/
+    margin-left: -100px;
+    padding: 20px;
+}
+
+.home-picture {
+    display: flex;
+    justify-content: space-between;
+    padding: 110px;
+}
+
+.home-section {
+    background-color: tan;
+    padding: 10px;
+    border-bottom: 6px solid black;
+}
+
+.home-text {
+    font-family: 'Oleo Script', cursive;
+    font-size: 23px;
+    margin-left: 400px;
+    padding: 30px;
+}
+
+.home-text1 {
+    font-family: 'Oleo Script', cursive;
+    padding: 25px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.footer-list {
+    /*border: 3px solid pink;*/
+    list-style:none;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    font-family: 'Oleo Script', cursive;
+    font-size: 25px;
+}
+
+.product-img img {
+    margin-left: 40px;
+    padding: 40px;
+    height: 300px;
+    width: 300px;
+    
+}
+
+.footer {
+    background:seashell;
+    padding: 50px;
+}
+
+.about-info {
+    background: tan;
+    margin-top: -20px;
+    padding: 170px;
+    font-family: 'Oleo Script', cursive;
+    font-size: 23px;
+    border-bottom: 6px solid black;
+}
+
+.p-list {
+    font-family: 'Oleo Script', cursive;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 18px;
+
+}
+
+.about-img {
+    /*border: 3px solid orange;*/
+    padding: 30px;
+    float: right;
+}
+
+.home-img img {
+    height: 300px;
+    width: 300px;
+}
+    
+.carousel-section img {
+    height: 620px;
+    width: 320px;
+}
+
+.m-product-img img {
+    height: 350px;
+    width: 500px;
+}
+
+.product-img{
+    padding: 40px;
+}
+
+.p-choose{
+    background: tan;
+    padding: 40px;
+    margin-top: -15px;
+    border-top: 3px solid black;
+    list-style: none;
+}
+
+.sign-header {
+    font-family: 'Oleo Script', cursive;
+    text-align: center;
+    padding: 55px;   
+}
+
+.sign-div {
+    font-family: 'Oleo Script', cursive;
+    font-size: 25px;
+    text-align: center;
+    padding: 100px;
+}
+
+.sign-button {
+    background: black;
+    border-radius: 25px 20px;
+    padding: 5px 15px;
+    color: white;
+    margin-top: 30px;
+    justify-content: space-evenly;
+}
+
+.about-info img {
+    height: 450px;
+    width: 500px;
+}
+
+.single{
+    font-family: 'Oleo Script', cursive;
+    padding: 100px;
+    margin-left: 90px;
+    text-align: center;
+
+}
+
+.single-img img {
+    height: 450px;
+    width: 450px;
+}
